@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;time:2021-12-11" />
+    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;time:2021-12-11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyvenv.cfg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +32,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d650fa85-eb09-42ee-b889-1a8515cc099b" />
+  </component>
   <component name="ProjectId" id="1uG8dEb9GC73pRPJDVeC0Fhzk5E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,8 +45,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../11" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Python.lamb">
     <configuration name="create_and_read_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -140,10 +150,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.lamb" />
+        <item itemvalue="Python tests.Nosetests in 按预期状态顺序检测状态是否正常-用列表实现.py" />
+        <item itemvalue="Python tests.Nosetests for 按预期状态顺序检测状态是否正常-用列表实现.test_pro1" />
         <item itemvalue="Python.text_edit" />
         <item itemvalue="Python.create_and_read_file" />
-        <item itemvalue="Python tests.Nosetests for 按预期状态顺序检测状态是否正常-用列表实现.test_pro1" />
-        <item itemvalue="Python tests.Nosetests in 按预期状态顺序检测状态是否正常-用列表实现.py" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +194,7 @@
       <workItem from="1639046942310" duration="1212000" />
       <workItem from="1639055829462" duration="29083000" />
       <workItem from="1639139330281" duration="7668000" />
-      <workItem from="1639149578026" duration="10229000" />
+      <workItem from="1639149578026" duration="17539000" />
     </task>
     <task id="LOCAL-00001" summary="name:liu&#10;time:2021-12-11">
       <created>1639193989556</created>
@@ -193,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639193989556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="name:liu&#10;time:2021-12-11">
+      <created>1639194804982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639194804982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
