@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;time:2021-12-11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/lit" beforeDir="false" afterPath="$PROJECT_DIR$/learn/lit" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +193,7 @@
       <workItem from="1639046942310" duration="1212000" />
       <workItem from="1639055829462" duration="29083000" />
       <workItem from="1639139330281" duration="7668000" />
-      <workItem from="1639149578026" duration="17539000" />
+      <workItem from="1639149578026" duration="18967000" />
     </task>
     <task id="LOCAL-00001" summary="name:liu&#10;time:2021-12-11">
       <created>1639193989556</created>
