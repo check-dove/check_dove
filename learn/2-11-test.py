@@ -1,5 +1,7 @@
 from time import sleep
-
+"""
+    根据选择进行求和 sum 或求平均 avg 的小程序
+"""
 
 def python_2_9():
     avg_list = [14, 18, 32, 4, 2]
