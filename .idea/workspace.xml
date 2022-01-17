@@ -4,27 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;time:2021-12-11">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deeper_learn/os_sys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/learning_practice_and_examples_in_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/unicode__practice_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PureProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PureProject.iml" afterDir="false" />
+    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;time:2022-1-7">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/selenium_exer/selenium_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/2-11-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/2-11-test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/crawler_xx.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/create_and_read_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/selenium_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/eg.py" beforeDir="false" afterPath="$PROJECT_DIR$/somethingToDo/eg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/learning file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/lit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/mylog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/mylog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/text_edit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/text_edit_update.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/wata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/迭代器.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/迭代器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/crawler_taobao.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/baseofwebsite/crawler_taobao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/selenium_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/单线程和多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/单线程和多线程.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,74 +47,39 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/SomeOporAchi" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\liushuai\9、project\PureProject\SomeOporAchi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\liushuai\9、project\PureProject\learn\baseofwebsite" />
+      <recent name="D:\liushuai\9、project\PureProject\learn\result_html" />
+      <recent name="D:\liushuai\9、project\PureProject\learn\selenium_pra" />
+      <recent name="D:\liushuai\9、project\PureProject\socketprograming" />
       <recent name="D:\liushuai\9、project\PureProject\SomeOporAchi" />
-      <recent name="D:\liushuai\9、project\PureProject\somethingToDo" />
-      <recent name="D:\liushuai\9、project\PureProject\SomeOp" />
-      <recent name="D:\liushuai\9、project\PureProject\deeper_learn" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.INetTCP_promC">
-    <configuration name="INetTCP_promC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.slider_pra">
+    <configuration name="单线程和多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PureProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeper_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\liushuai\9、project\PureProject\deeper_learn\INetTCP_promC.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="INetTCP_promS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PureProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeper_learn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\liushuai\9、project\PureProject\deeper_learn\INetTCP_promS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="INetTCP_promS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PureProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeper_learn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\liushuai\9、project\PureProject\deeper_learn\INetTCP_promS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/单线程和多线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,17 +110,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="eg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="htmlResult_exer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PureProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/somethingToDo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/result_html" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/somethingToDo/eg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/result_html/htmlResult_exer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,35 +129,66 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="picture_show_with_matplotlib_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="slider_pra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PureProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SomeOporAchi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/baseofwebsite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SomeOporAchi/picture_show_with_matplotlib_.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/baseofwebsite/slider_pra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="smtp_exer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/smtp_exer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/smtp_exer/smtp_exer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in book_exer.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/unit_unittest_exer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/learn/unit_unittest_exer/book_exer.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.INetTCP_promC" />
-        <item itemvalue="Python.INetTCP_promS" />
-        <item itemvalue="Python.INetTCP_promS" />
-        <item itemvalue="Python.eg" />
-        <item itemvalue="Python.picture_show_with_matplotlib_" />
+        <item itemvalue="Python.slider_pra" />
+        <item itemvalue="Python.smtp_exer" />
+        <item itemvalue="Python.单线程和多线程" />
+        <item itemvalue="Python.htmlResult_exer" />
+        <item itemvalue="Python tests.Unittests in book_exer.py" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +244,10 @@
       <workItem from="1641286214176" duration="27552000" />
       <workItem from="1641435976704" duration="903000" />
       <workItem from="1641438219298" duration="284000" />
-      <workItem from="1641438517390" duration="14523000" />
+      <workItem from="1641438517390" duration="77071000" />
+      <workItem from="1642037038869" duration="39984000" />
+      <workItem from="1642218637882" duration="7447000" />
+      <workItem from="1642295859613" duration="22350000" />
     </task>
     <task id="LOCAL-00001" summary="name:liu&#10;time:2021-12-11">
       <created>1639193989556</created>
@@ -297,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639271546454</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="name:liu&#10;time:2022-1-7">
+      <created>1641517660678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641517660678</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,30 +311,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="name:liu&#10;time:2021-12-11" />
-    <option name="LAST_COMMIT_MESSAGE" value="name:liu&#10;time:2021-12-11" />
+    <MESSAGE value="name:liu&#10;time:2022-1-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="name:liu&#10;time:2022-1-7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PureProject$eg.coverage" NAME="eg Coverage Results" MODIFIED="1639125295424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$.coverage" NAME="按预期状态顺序检测状态是否正常-用列表实现 Coverage Results" MODIFIED="1626276959607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
-    <SUITE FILE_PATH="coverage/PureProject$lamb.coverage" NAME="lamb Coverage Results" MODIFIED="1639190732561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$tet_1.coverage" NAME="tet_1 Coverage Results" MODIFIED="1639386968461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$__1_.coverage" NAME="单线程和多线程 (1) Coverage Results" MODIFIED="1627704479633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$Unittests_for_exam_exer_examle_exer_test_selenium_exer.coverage" NAME="Unittests for exam_exer.examle_exer.test_selenium_exer Coverage Results" MODIFIED="1642241556408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/unit_unittest_exer" />
+    <SUITE FILE_PATH="coverage/PureProject$test.coverage" NAME="test Coverage Results" MODIFIED="1639127916785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$baseofpython.coverage" NAME="baseofpython Coverage Results" MODIFIED="1641892168879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/selenium_pra" />
+    <SUITE FILE_PATH="coverage/PureProject$Unittests_for_book_exer_book_unittest.coverage" NAME="Unittests for book_exer.book_unittest Coverage Results" MODIFIED="1642300191548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/unit_unittest_exer" />
+    <SUITE FILE_PATH="coverage/PureProject$text_edit.coverage" NAME="text_edit Coverage Results" MODIFIED="1639149634335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$unifile.coverage" NAME="unifile Coverage Results" MODIFIED="1639624981622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$baseofjinritoutiao.coverage" NAME="baseofjinritoutiao Coverage Results" MODIFIED="1641964680550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/selenium_pra" />
+    <SUITE FILE_PATH="coverage/PureProject$Nosetests_in___py.coverage" NAME="Nosetests in 按预期状态顺序检测状态是否正常-用列表实现.py Coverage Results" MODIFIED="1639145287383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$create_and_read_file.coverage" NAME="create_and_read_file Coverage Results" MODIFIED="1639147586923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$practice.coverage" NAME="practice Coverage Results" MODIFIED="1640487707060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$lamb.coverage" NAME="lamb Coverage Results" MODIFIED="1639190732561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$socserver_C_pra.coverage" NAME="socserver_C_pra Coverage Results" MODIFIED="1641796491577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socketprograming" />
+    <SUITE FILE_PATH="coverage/PureProject$Unittests_for_book_exer_book_unittest_test_book_error.coverage" NAME="Unittests for book_exer.book_unittest.test_book_error Coverage Results" MODIFIED="1642300179904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/unit_unittest_exer" />
     <SUITE FILE_PATH="coverage/PureProject$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1639056435989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$learning_file.coverage" NAME="learning file Coverage Results" MODIFIED="1640155753888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$x_test__1_.coverage" NAME="x_test (1) Coverage Results" MODIFIED="1627698935837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$crawler_xx.coverage" NAME="crawler_xx Coverage Results" MODIFIED="1640058778434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$Nosetests_for_descr_test_FileDescr.coverage" NAME="Nosetests for descr.test_FileDescr Coverage Results" MODIFIED="1640942029923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SomeOporAchi" />
-    <SUITE FILE_PATH="coverage/PureProject$__1_.coverage" NAME="单线程和多线程 (1) Coverage Results" MODIFIED="1627704479633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$Unittests_for_book_exer_book_unittest_test_book.coverage" NAME="Unittests for book_exer.book_unittest.test_book Coverage Results" MODIFIED="1642300099989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/unit_unittest_exer" />
     <SUITE FILE_PATH="coverage/PureProject$mysql_test.coverage" NAME="mysql_test Coverage Results" MODIFIED="1624375222241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
-    <SUITE FILE_PATH="coverage/PureProject$test.coverage" NAME="test Coverage Results" MODIFIED="1639127916785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$Unittests_for_exam_exer_examle_exer.coverage" NAME="Unittests for exam_exer.examle_exer Coverage Results" MODIFIED="1642241671429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/unit_unittest_exer" />
     <SUITE FILE_PATH="coverage/PureProject$Nosetests_for___test_pro1.coverage" NAME="Nosetests for 按预期状态顺序检测状态是否正常-用列表实现.test_pro1 Coverage Results" MODIFIED="1639145315937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$Nosetests_for_test_1_test_displayNumType.coverage" NAME="Nosetests for test_1.test_displayNumType Coverage Results" MODIFIED="1639306858852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
-    <SUITE FILE_PATH="coverage/PureProject$text_edit.coverage" NAME="text_edit Coverage Results" MODIFIED="1639149634335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
-    <SUITE FILE_PATH="coverage/PureProject$unifile.coverage" NAME="unifile Coverage Results" MODIFIED="1639624981622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$Nosetests_in_test_1_py.coverage" NAME="Nosetests in test_1.py Coverage Results" MODIFIED="1639306896346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$Unittests_for_test_learning_file_Test.coverage" NAME="Unittests for test_learning file.Test Coverage Results" MODIFIED="1639059075295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib/site-packages/pkg_resources/tests" />
-    <SUITE FILE_PATH="coverage/PureProject$Nosetests_in___py.coverage" NAME="Nosetests in 按预期状态顺序检测状态是否正常-用列表实现.py Coverage Results" MODIFIED="1639145287383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/PureProject$learning_practice_and_examples_in_book__1_.coverage" NAME="learning_practice_and_examples_in_book (1) Coverage Results" MODIFIED="1640179417941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
-    <SUITE FILE_PATH="coverage/PureProject$create_and_read_file.coverage" NAME="create_and_read_file Coverage Results" MODIFIED="1639147586923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
-    <SUITE FILE_PATH="coverage/PureProject$practice.coverage" NAME="practice Coverage Results" MODIFIED="1640487707060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/PureProject$Unittests_in_book_exer_py.coverage" NAME="Unittests in book_exer.py Coverage Results" MODIFIED="1642301366528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/unit_unittest_exer" />
+    <SUITE FILE_PATH="coverage/PureProject$Unittests_for_book_exer_book_unittest_test_book_func.coverage" NAME="Unittests for book_exer.book_unittest.test_book_func Coverage Results" MODIFIED="1642300147157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/unit_unittest_exer" />
   </component>
 </project>
