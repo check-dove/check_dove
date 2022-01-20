@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;func:新增一些学习内容&#10;time:2022-1-17">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;func:test&#10;time:2022-1-20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deeper_learn/os_sys.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeper_learn/os_sys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/smtp_exer/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/learning_practice_and_examples_in_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/learning_practice_and_examples_in_book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/test_exer.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +289,7 @@
       <workItem from="1642295859613" duration="29494000" />
       <workItem from="1642427424197" duration="16000" />
       <workItem from="1642497255090" duration="8615000" />
-      <workItem from="1642508384715" duration="23271000" />
+      <workItem from="1642508384715" duration="24714000" />
     </task>
     <task id="LOCAL-00001" summary="name:liu&#10;time:2021-12-11">
       <created>1639193989556</created>
@@ -344,7 +340,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642388698760</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="name:liu&#10;func:test&#10;time:2022-1-20">
+      <created>1642676097048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642676097048</updated>
+    </task>
+    <task id="LOCAL-00009" summary="name:liu&#10;func:test&#10;time:2022-1-20">
+      <created>1642676315220</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642676315220</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +376,8 @@
     <MESSAGE value="name:liu&#10;time:2021-12-11" />
     <MESSAGE value="name:liu&#10;time:2022-1-7" />
     <MESSAGE value="name:liu&#10;func:新增一些学习内容&#10;time:2022-1-17" />
-    <option name="LAST_COMMIT_MESSAGE" value="name:liu&#10;func:新增一些学习内容&#10;time:2022-1-17" />
+    <MESSAGE value="name:liu&#10;func:test&#10;time:2022-1-20" />
+    <option name="LAST_COMMIT_MESSAGE" value="name:liu&#10;func:test&#10;time:2022-1-20" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PureProject$eg.coverage" NAME="eg Coverage Results" MODIFIED="1639125295424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
