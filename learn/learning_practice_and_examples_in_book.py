@@ -262,7 +262,7 @@ def list_comprehension():
 
 def file_test2():
     # truncate方法如何使用
-    fo = open('a.txt', 'r')
+    fo = open('smtp_exer/a.txt', 'r')
     fo.truncate(10)
     for eachline in fo:
         print(eachline, )

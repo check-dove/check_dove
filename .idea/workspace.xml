@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;time:2022-1-7">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/selenium_exer/selenium_demo.py" afterDir="false" />
+    <list default="true" id="f7d11b46-c3a4-49df-be62-0fe278707647" name="Default Changelist" comment="name:liu&#10;func:新增一些学习内容&#10;time:2022-1-17">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/crawler_taobao.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/baseofwebsite/crawler_taobao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/selenium_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/单线程和多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/单线程和多线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeper_learn/os_sys.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeper_learn/os_sys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/learn/smtp_exer/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/learning_practice_and_examples_in_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/learning_practice_and_examples_in_book.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SomeOporAchi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyautoTest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -61,33 +59,14 @@
       <recent name="D:\liushuai\9、project\PureProject\SomeOporAchi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\liushuai\9、project\PureProject\learn" />
+      <recent name="D:\liushuai\9、project\PureProject\exer_pytest" />
+      <recent name="D:\liushuai\9、project\PureProject\learn\smtp_exer" />
       <recent name="D:\liushuai\9、project\PureProject\learn\baseofwebsite" />
       <recent name="D:\liushuai\9、project\PureProject\learn\result_html" />
-      <recent name="D:\liushuai\9、project\PureProject\learn\selenium_pra" />
-      <recent name="D:\liushuai\9、project\PureProject\socketprograming" />
-      <recent name="D:\liushuai\9、project\PureProject\SomeOporAchi" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.slider_pra">
-    <configuration name="单线程和多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PureProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/单线程和多线程.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_exer (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PureProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,17 +89,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="htmlResult_exer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="run_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PureProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/result_html" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exer_pytest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/result_html/htmlResult_exer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exer_pytest/run_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +112,9 @@
       <module name="PureProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/baseofwebsite" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -167,28 +149,89 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in book_exer.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="test_exer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PureProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/unit_unittest_exer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/learn/unit_unittest_exer/book_exer.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/test_exer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_exer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\liushuai\9、project\PureProject\learn\test_exer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_exer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\liushuai\9、project\PureProject\exer_pytest\test_exer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_exer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exer_pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\liushuai\9、project\PureProject\learn\test_exer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.slider_pra" />
-        <item itemvalue="Python.smtp_exer" />
-        <item itemvalue="Python.单线程和多线程" />
-        <item itemvalue="Python.htmlResult_exer" />
-        <item itemvalue="Python tests.Unittests in book_exer.py" />
+        <item itemvalue="Python.test_exer (1)" />
+        <item itemvalue="Python.run_tests" />
+        <item itemvalue="Python.test_exer (1)" />
+        <item itemvalue="Python.test_exer (1)" />
+        <item itemvalue="Python.test_exer" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +290,10 @@
       <workItem from="1641438517390" duration="77071000" />
       <workItem from="1642037038869" duration="39984000" />
       <workItem from="1642218637882" duration="7447000" />
-      <workItem from="1642295859613" duration="22350000" />
+      <workItem from="1642295859613" duration="29494000" />
+      <workItem from="1642427424197" duration="16000" />
+      <workItem from="1642497255090" duration="8615000" />
+      <workItem from="1642508384715" duration="23271000" />
     </task>
     <task id="LOCAL-00001" summary="name:liu&#10;time:2021-12-11">
       <created>1639193989556</created>
@@ -291,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641517660678</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="name:liu&#10;func:新增一些学习内容&#10;time:2022-1-17">
+      <created>1642388698760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642388698760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +365,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="name:liu&#10;time:2021-12-11" />
     <MESSAGE value="name:liu&#10;time:2022-1-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="name:liu&#10;time:2022-1-7" />
+    <MESSAGE value="name:liu&#10;func:新增一些学习内容&#10;time:2022-1-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="name:liu&#10;func:新增一些学习内容&#10;time:2022-1-17" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PureProject$eg.coverage" NAME="eg Coverage Results" MODIFIED="1639125295424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />

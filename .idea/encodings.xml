@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/learn/a.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/learn/baseofwebsite/title.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/learn/baseofwebsite/title.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/learn/mylog.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/learn/selenium_exer/datafile.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/learn/smtp_exer/a.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/learn/smtp_exer/a.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/learn/unit_unittest_exer/title.csv" charset="GBK" />
   </component>
 </project>

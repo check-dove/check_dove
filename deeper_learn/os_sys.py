@@ -7,7 +7,7 @@ import sys
 
 
 def file_w_with_linesep():
-    f = open('../learn/a.txt', 'a+')
+    f = open('../learn/smtp_exer/a.txt', 'a+')
     while 1:
         aline = input('enter a line("." to quit):>')
         if aline != ".":
@@ -18,7 +18,7 @@ def file_w_with_linesep():
 
 
 def file_w_with_seek_tell():
-    f = open('../learn/a.txt', 'a+')
+    f = open('../learn/smtp_exer/a.txt', 'a+')
     a = f.tell()
     print('a={}'.format(a))
     while 1:
